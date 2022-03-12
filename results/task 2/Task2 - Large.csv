@@ -1,9 +1,0 @@
-airline_name,num_delays,average_delay,min_delay,max_delay
-Alaska Airlines Inc.,6016,35.16988031914894,1,1438
-American Airlines Inc.,27102,28.524795218065087,1,1008
-Continental Air Lines Inc.,12858,29.085394307046197,1,1433
-Delta Air Lines Inc.,38073,23.338507603813728,1,1439
-Northwest Airlines Inc.,15850,30.721577287066246,1,1438
-Southwest Airlines Co.,36837,27.767217743030105,1,465
-US Airways,26159,27.997018234641995,1,1439
-United Airlines,36670,32.720152713389695,1,543
